@@ -4,6 +4,6 @@ Hello! I'm Gustavo Rodrigues, a Computer Science major at Federal University of 
 
  👩‍💻 Skills: <strong>Python, Java, HTML, CSS, JavaScript, Bootstrap</strong>
 
-📚 Currently Learning: <strong>Quasar frameworkl with Vue</strong>
+📚 Currently Learning: <strong>Quasar framework with Vue</strong>
 
 Thank You for visiting my profile, if you want to talk about anything, feel free to <a href="mailto:guscorod@gmail.com">Email me</a>

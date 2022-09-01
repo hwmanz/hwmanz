@@ -2,8 +2,8 @@
 
 Hello! I'm Gustavo Rodrigues, a Computer Science major at Federal University of Pará (UFPa), my pronouns are he/they
 
-👩‍💻 Skills: <strong>Python, Java, HTML, CSS, JavaScript, Bootstrap, VueJS 2, Quasar Framework, Sass</strong>
+👩‍💻 Skills: <strong>Python, Java, HTML, CSS, JavaScript, Bootstrap, VueJS 2 & 3, Quasar Framework, Sass</strong>
 
-📚 Currently Learning: <strong>VueJS 3</strong>
+📚 Currently Learning: <strong>Laravel</strong>
 
 Thank You for visiting my profile, if you want to talk about anything, feel free to <a href="mailto:guscorod@gmail.com">Email me</a>
